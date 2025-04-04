@@ -1,3 +1,4 @@
 runner.exe filter=lfs diff=lfs merge=lfs -text
 runner.pkg filter=lfs diff=lfs merge=lfs -text
 Files/build/runner/runner.pkg filter=lfs diff=lfs merge=lfs -text
+Files/build/runner/PYZ-00.pyz filter=lfs diff=lfs merge=lfs -text
